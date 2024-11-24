@@ -64,7 +64,7 @@ Read the full blog: [Distributed Training with Kubeflow: Accelerating ML Model D
 
 ## 📂 CV  
 
-📄 **[View My CV](./MuazElahiCVFinal.pdf)**  
+📄 **[View My CV](./MudasirSaeed_CV_Final.pdf)**  
 
 My CV highlights my skills, professional experience, and academic journey, emphasizing my strengths in DevOps, back-end development, and cybersecurity.  
 
@@ -73,7 +73,7 @@ My CV highlights my skills, professional experience, and academic journey, empha
 ## 🌐 Connect With Me  
 
 I’d love to connect with you! Feel free to reach out via:  
-- **[LinkedIn](https://www.linkedin.com/in/muazelah1/)**  
-- **[GitHub](https://github.com/perogrammer)**  
+- **[LinkedIn](https://www.linkedin.com/in/mudasirsaeed032/)](https://www.linkedin.com/in/mudasirsaeed032/)**  
+- **[GitHub](https://github.com/Mudasirsaeed032)**  
 
 ---
