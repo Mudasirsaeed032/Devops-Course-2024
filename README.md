@@ -77,5 +77,3 @@ Here is a rundown of devices I became capable in during my excursion:
 My DevOps venture has been both testing and fulfilling. I began with an essential comprehension of certain instruments yet wound up dominating a wide cluster of innovations that power present day DevOps work processes. En route, I took in the significance of **automation**, **collaboration**, and **continuous improvement**.
 
 The DevOps journey never truly ends—there’s always something new to learn. I'm excited to continue exploring, contributing, and building efficient systems!
-
-**Happy DevOps-ing! 🚀**
