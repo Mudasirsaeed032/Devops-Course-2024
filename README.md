@@ -56,7 +56,7 @@ Read the full blog: [Distributed Training with Kubeflow: Accelerating ML Model D
 
 | **Project**                  | **Description**                                                                 | **Tools Used**          | **Links**               |  
 |------------------------------|---------------------------------------------------------------------------------|-------------------------|-------------------------|  
-| **HumRahi**                | A Carpooling solution designed to connect urban commuters, optimizing routes | React Native, Django, ML       | *Coming Soon*          |   
+| **YelpCamp**                |   A web app for booking campgrounds made by implementing node, express, mongodb and embedded JavaScipt for frontend.      | https://github.com/Mudasirsaeed032/YelpCamp-project          |   
 | **FinancialAssistant**         | A comprehensive finance management application designed to empower users to take full control of their personal finances| MERN Stack| [GitHub](https://github.com/Shaheer-Khan1/FinancialAssistant) |  
 | **Societies Management System** | This implementation streamlines the administration of university societies, enabling efficient member management, event planning, and registration tracking.| ASP.NET, C#, SQL Server| [GitHub](https://github.com/perogrammer/Societies-Management-System) |  
 
