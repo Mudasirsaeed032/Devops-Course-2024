@@ -56,9 +56,9 @@ Read the full blog: [Distributed Training with Kubeflow: Accelerating ML Model D
 
 | **Project**                  | **Description**                                                                 | **Tools Used**          | **Links**               |  
 |------------------------------|---------------------------------------------------------------------------------|-------------------------|-------------------------|  
-| **YelpCamp**                |   A web app for booking campgrounds.      | Node.js, Express.js, MongoDB, EJS, Mapbox, Cloudinary          |   https://github.com/Mudasirsaeed032/YelpCamp-project
-| **FinancialAssistant**         | A comprehensive finance management application designed to empower users to take full control of their personal finances| MERN Stack| [GitHub](https://github.com/Shaheer-Khan1/FinancialAssistant) |  
-| **Societies Management System** | This implementation streamlines the administration of university societies, enabling efficient member management, event planning, and registration tracking.| ASP.NET, C#, SQL Server| [GitHub](https://github.com/perogrammer/Societies-Management-System) |  
+| **YelpCamp**                |   A web app for booking campgrounds.      | Node.js, Express.js, MongoDB, EJS, Mapbox, Cloudinary          |   [Github](https://github.com/Mudasirsaeed032/YelpCamp-project)
+| **Product Review Site**         | A comprehensive web app made for adding reviews on different products. | MERN Stack| [GitHub](https://github.com/Mudasirsaeed032/ProductReview-MERN-project) |  
+| **TheWebGator** | A React app for the purposes of finding web services from different customers | React | [GitHub](https://github.com/hassansajjadkhan/thewebgator) |  
 
 ---
 
