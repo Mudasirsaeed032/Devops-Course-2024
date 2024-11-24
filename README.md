@@ -37,16 +37,18 @@ Read the full blog: [Optimizing Docker Images for Faster MERN Stack Deployments]
 
 ---
 
-### Blog 2: Deploying an EKS Cluster on AWS using Terraform: A Step-by-Step Guide  
-This guide explains how to use **Terraform** to automate the provisioning of an Amazon Elastic Kubernetes Service (EKS) cluster. It covers prerequisites like AWS CLI setup and Terraform installation, writing a Terraform configuration file for the EKS cluster, and initializing and applying the configuration. 
+### Blog 2: Distributed Training with Kubeflow: Accelerating ML Model Development
+This blog explores how Kubeflow enables distributed training for machine learning models, making it easier to scale model development across multiple nodes. Kubeflow’s integration with Kubernetes ensures efficient resource allocation and fault tolerance during training.
 
 Key Highlights:  
-- Configure Terraform files for the VPC and EKS cluster.
-- Use terraform init, plan, and apply commands for deployment.
-- Connect to the EKS cluster with kubectl.
-- Deploy a sample Nginx application and clean up resources using terraform destroy.
+- **Setting Up Kubeflow**: Deploy Kubeflow on a Kubernetes cluster to manage ML workflows.
+- **Configuring Distributed Training**: Use TensorFlowJob or PyTorchJob in Kubeflow for distributed training across multiple GPUs or nodes.
+- **Resource Optimization**: Leverage Kubernetes for dynamic resource allocation and load balancing.
+- **Monitoring with Central Dashboard**: Track training progress and logs using Kubeflow's intuitive UI.
+- **Integration with Pipelines**: Combine distributed training with Kubeflow Pipelines for end-to-end automation of ML workflows.
+- **Model Validation and Deployment**: Validate trained models and deploy them directly using Kubernetes-native tools.
 
-Read the full blog: [Deploying an EKS Cluster on AWS using Terraform: A Step-by-Step Guide](https://medium.com/@maazelahi119/deploying-an-eks-cluster-on-aws-using-terraform-a-step-by-step-guide-5b464a9d905b)  
+Read the full blog: [Distributed Training with Kubeflow: Accelerating ML Model Development on GitHub.]([https://medium.com/@maazelahi119/deploying-an-eks-cluster-on-aws-using-terraform-a-step-by-step-guide-5b464a9d905b](https://medium.com/@mudasir.saeed01/distributed-training-with-kubeflow-accelerating-ml-model-development-bc3ef3f6af58))  
 
 ---
 
