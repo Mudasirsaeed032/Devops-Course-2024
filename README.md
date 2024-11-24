@@ -15,11 +15,9 @@ While these abilities gave me a strong groundwork, I understood there was someth
 
 ## What I Learned Along the Way 📚
 
-### 1. **Infrastructure as Code (IaC)**
+### 1. **CI/CD Pipelines**
 
--   Learned **Terraform** to manage cloud infrastructure declaratively.
--   Practiced provisioning resources on AWS, automating tasks like setting up VPCs, EC2 instances, and S3 buckets.
--   Explored the benefits of versioning infrastructure changes.
+-   Continuous Integration (CI) and Continuous Deployment (CD) pipelines automate the process of integrating code changes and deploying them to production. CI focuses on testing code changes frequently, while CD automates delivering these changes to production environments seamlessly.
 
 ### 2. **Configuration Management**
 
